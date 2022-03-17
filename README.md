@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/geanderson062/geanderson062/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/geanderson-062/geanderson-062/blob/output/github-contribution-grid-snake.svg)
 
 
