@@ -8,6 +8,18 @@
 
 ```
 
+<div align="center">  
+  <a href="mailto:geanderson062@outlook.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/geanderson-ferreira-dos-santos-2327a91a3/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="mailto:geandersonfds@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord">
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geanderson-062&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=42C920&icon_color=42C920&text_color=42C920&bg_color=000000"/>
@@ -18,27 +30,30 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+
 </div>
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+### Studying in this moment:
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 <div align="center">
@@ -46,8 +61,10 @@
   <p><img  src="https://profile-counter.glitch.me/{geanderson-062}/count.svg" /></p>
 </div>
 
+![Snake animation](https://github.com/geanderson-062/geanderson-062/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42C920&height=120&section=footer"/>
   
-  ![Snake animation](https://github.com/geanderson-062/geanderson-062/blob/output/github-contribution-grid-snake.svg)
+  
 
 
